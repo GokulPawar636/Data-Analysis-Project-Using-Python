@@ -1,8 +1,0 @@
-** Student Result Analysis Using Python**
-* Some insights from analysis process of the data of student result performance.
-
-- The number of female students in the dataset is higher than the number of male students.
-- Parental education level appears to have a positive impact on student scores, with students whose parents have higher degrees tending to achieve better results in Math, Reading, and Writing.
-- The marital status of parents seems to have a negligible impact on student scores.
-- The box plots for Math, Reading, and Writing scores show the distribution and potential outliers for each subject, indicating the range and spread of student performance.
-- The distribution of ethnic groups in the dataset is also shown, with group C being the largest.
